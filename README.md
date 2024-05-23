@@ -9,4 +9,4 @@ draw rectangle, line, cercle,
 
 change the colors 
 
-resasing the dimonsions 
+dimension resize 
